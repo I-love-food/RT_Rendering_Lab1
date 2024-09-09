@@ -1,0 +1,15 @@
+Tasks
+Your drawing program will support the following features:
+
+Press keys ‘p’, ‘h’, ‘v’, ‘t’, and ‘q’, to specify whether you want to draw a point, horizontal line, vertical line, triangle, or square, respectively
+Press keys ‘r’, ‘g’, ‘b’ to indicate the color of the shapes that will be drawn from now on in red, green, or blue, respectively
+Use the left mouse button to select a point on the screen and draw the shape indicated earlier with a proper default size of your choice centered around the clicked point.
+The user can change the color and type of shapes at any time by keystrokes and clicking on new points to draw additional shapes.
+Press key ‘c’ to clear all shapes.
+Bonus point
+Do the following and receive up to one bonus point:
+
+(0.5 pt): Add the circle shape with the key ‘R’
+(0.5 pt): Allow canvas resizing (describe how to resize in the readme).  After resizing, you need to make sure all shapes are repositioned and resized proportionally to the new canvas size,  and you can still click your mouse button to add new shapes.
+Note
+High-level graphics libraries (including but not limited to Three.js, BabylonJS, Deck.gl, and Unity) are not allowed.
