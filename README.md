@@ -28,5 +28,6 @@ Lowercase: c -> clear the canvas
 
 ## Software Info
 Operating system: Windows 11
+
 Web browser: Microsoft Edge
 
