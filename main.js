@@ -7,7 +7,7 @@ const Color = {
 
 color = Color.RED
 FLOAT_SIZE = 4
-circle_density=200
+circle_density=200 // specify how many points to form a circle
 max_depth = 100000.0;
 depth = max_depth
 step = 1.0
